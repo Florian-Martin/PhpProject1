@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         $data = array(
-            'hello world!',
+            'hello world!', 'lalala',
             array(
                 'sub-1', 'sub2',
                 'sub-3'));
